@@ -1,0 +1,20 @@
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\Szyfr Homofoniczny_MarkupCompile.cache
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\Szyfr Homofoniczny_MarkupCompile.lref
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\bin\Debug\net6.0-windows\Szyfr Homofoniczny.exe
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\bin\Debug\net6.0-windows\Szyfr Homofoniczny.deps.json
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\bin\Debug\net6.0-windows\Szyfr Homofoniczny.runtimeconfig.json
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\bin\Debug\net6.0-windows\Szyfr Homofoniczny.dll
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\bin\Debug\net6.0-windows\Szyfr Homofoniczny.pdb
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\Szyfr Homofoniczny.g.resources
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\Szyfr Homofoniczny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\Szyfr Homofoniczny.AssemblyInfoInputs.cache
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\Szyfr Homofoniczny.AssemblyInfo.cs
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\Szyfr Homofoniczny.csproj.CoreCompileInputs.cache
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\Szyfr Homofoniczny.dll
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\refint\Szyfr Homofoniczny.dll
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\Szyfr Homofoniczny.pdb
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\Szyfr Homofoniczny.genruntimeconfig.cache
+C:\Users\kubek\source\repos\Szyfr Homofoniczny\obj\Debug\net6.0-windows\ref\Szyfr Homofoniczny.dll
